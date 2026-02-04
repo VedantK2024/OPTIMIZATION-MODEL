@@ -1,4 +1,17 @@
 # OPTIMIZATION-MODEL
+COMPANY : CODTECH IT SOLUTIONS PVT.LTD
+
+NAME :VEDANTT RAJESH KASLIKAR
+
+INTERN ID: CTIS2307
+
+DOMAIN: DATA SCIENCE
+
+DURATION:4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+
 This project demonstrates the application of optimization techniques, 
 specifically Linear Programming (LP), to solve a real-world business problem 
 in supply chain management. The solution minimizes transportation costs while 
